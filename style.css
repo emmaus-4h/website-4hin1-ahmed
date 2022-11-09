@@ -20,6 +20,9 @@ body * {                          /* geldt voor alles in body */
 }
 
 /* Indeling voor alle pagina's */
+.box {
+  border:solid blue;
+}
 
 .page {
   width: 700px;                   /* vaste breedte van 700 pixels */
