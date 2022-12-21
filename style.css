@@ -89,7 +89,7 @@ nav ul {
     list-style-type: none;
     margin: auto;
     padding: 0;
-    background-color: #4b494a;
+    background-color: #ec46e6;
     overflow: hidden;
 }
 
@@ -106,7 +106,7 @@ nav li a {
 }
 
 nav li a:hover {
-    background-color: #6b6b6b;
+    background-color: #d438ff;
 }
 
 nav li a.active {

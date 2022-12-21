@@ -52,7 +52,7 @@ Aan het einde van stap 4 heb je een hoofdpagina met teksten en plaatjes.
 Aan het einde van stap 5 heb je minimaal vier subpagina's met een goede indeling en opmaak. De plaatjes en tekst op de
 
 ### Stap 6: Plaatjes en tekst subpagina's
-- [x] Je hebt de tekst en plaatjes voor al je subpagina's gemaakt.
+- [] Je hebt de tekst en plaatjes voor al je subpagina's gemaakt.
 
 Aan het einde van stap 6 heb je minimaal vier subpagina's met teksten en plaatjes.
 
@@ -70,7 +70,7 @@ Aan het einde van stap 8 heb je een perfecte website met één of enkele opvalle
 
 ### Stap 9: Uitbreidingen (niet verplicht)
 Kies de uitbreidingen die je leuk vindt en maak je website nog mooier
-- [ ] ...
+- [x] ...
 
 ## Documentatie
 - Khan Academy cursus Intro to HTML en CSS 
